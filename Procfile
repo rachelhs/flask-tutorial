@@ -1,1 +1,1 @@
-web: gunicorn app:Flask_Tutorial
+web: gunicorn main:app
